@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">彩铃</string>
+    <string name="title_more">更多</string>
+    <string name="exit_program">再按一次退出应用</string>
+    
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+</resources>
